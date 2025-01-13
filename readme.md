@@ -1,4 +1,7 @@
-Responsive Webpage Project
+### Responsive Webpage Project
+
+![alt text](<Screenshot 2025-01-13 152345.png>) 
+![alt text](<Screenshot 2025-01-13 152431.png>)
 This project is a simple webpage featuring a fixed navbar, collapsible left menu, main content area, and right-side panel. Additionally, the webpage adjusts its scaling based on the screen size to provide a better user experience across different devices.
 
 Features
